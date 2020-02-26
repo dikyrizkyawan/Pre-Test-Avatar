@@ -1,0 +1,22 @@
+.img-box {
+  height: 400px;
+}
+
+@media only screen and (max-width: 425px) {
+  .img-box {
+    height: 190px;
+  }
+}
+
+.img-box-card {
+  height: 200px;
+}
+
+.text-lightgrey {
+  color: rgb(182, 182, 182);
+}
+
+.img-detail-box {
+  width: 100%;
+  height: inherit;
+}
